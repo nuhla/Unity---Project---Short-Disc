@@ -4,19 +4,19 @@
 
  [post is  here ](https://www.linkedin.com/posts/aminabuzahra_students-gift-activity-7285093388515774464-8y2-?utm_source=share&tm_medium=member_desktop)
 
-# Important Note
+### Important Note
 The core principle of this project is to avoid using any external assets. All models were built using Unity's native shapes, and both the controllers and coding were developed entirely in-house, without relying on any external tools.
 and also to use basic transformation rotation to animate everything, without any physics
 
-# Main Role 
+## Main Role 
 ### C# developer , Game Designer , Artist 
 # Short Gameplay vedio
 
 [![](IMGS/1.jpg)](https://youtu.be/OoRil-WJMUE)
 
-# What did i do
+## What did i do
 
-## Modling 
+### Modling 
 
 - Main Castle 
 ![](IMGS/Castle.JPG)
@@ -34,12 +34,12 @@ and also to use basic transformation rotation to animate everything, without any
 ![](IMGS/Bunny.JPG)
 
 
-## Shaders
+### Shaders
 - Chocolate Shader For Rivers and Cake ChocolateFall
 ![](IMGS/Shader.JPG)
 
 
-## Coding
+### Coding
 - Bunny Movment Controller
 ![](IMGS/BunnyController.JPG)
 
