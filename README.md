@@ -1,4 +1,4 @@
-# 1. Mr. Amin Gift
+- # 1. Mr. Amin Gift
 
 ### here is the link for his beutifull thougths about the project  
 
@@ -52,7 +52,7 @@ and also to use basic transformation rotation to animate everything, without any
 ![](IMGS/chip.JPG)
 
 
-# AR
+- # AR
 ### 2.  Some of my Participation in the ARFoundation Experience in creating Navigation Content (Indoor & outdoor navigation ), we used many Techs besides Augmented Reality  Offered by Unity ARFoundation SDK including :
 1. google Geospatial anchors.
 2. Mapbox Routing and Navigation.
@@ -62,7 +62,7 @@ and also to use basic transformation rotation to animate everything, without any
 [![](IMGS/Ar.JPG)](https://youtube.com/shorts/WmIDuExrIZI?feature=share)
 
 
-# VR - (Sabastya Prototype)
+- # VR - (Sabastya Prototype)
 
  ### PROTOTYPE PROJECT  
  Multiple videos are Available
@@ -75,7 +75,7 @@ and also to use basic transformation rotation to animate everything, without any
  c# developer 3D Modling
 
 
- # 2D Game 
+ - # 2D Game 
 
  [![](IMGS/monyCollecter.JPG)](https://youtu.be/8BLL8cNaNyc)
 
