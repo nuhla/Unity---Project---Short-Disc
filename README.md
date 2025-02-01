@@ -1,11 +1,11 @@
-- # 1. Collbirative work with some of my coleges 
+- # 1. Collaborative work with some of my colleagues 
 
-### here is the link for his beutifull thougths about the project  
+### here is the link for his beautiful thoughts about the project  
 
  [post is  here ](https://www.linkedin.com/posts/aminabuzahra_students-gift-activity-7285093388515774464-8y2-?utm_source=share&tm_medium=member_desktop)
 
 ### Important Note
- to maximize my The core principle of this project is to avoid using any external assets. All models were built using Unity's native shapes, and both the controllers and coding were developed entirely in-house, without relying on any external tools.
+The core principle of this project is to avoid using any external assets. All models were built using Unity's native shapes, and both the controllers and coding were developed entirely in-house, without relying on any external tools.
 and also to use basic transformation rotation to animate everything, without any physics
 
 ## Main Role 
