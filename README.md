@@ -1,11 +1,11 @@
-- # 1. Mr. Amin Gift
+- # 1. Collbirative work with some of my coleges 
 
 ### here is the link for his beutifull thougths about the project  
 
  [post is  here ](https://www.linkedin.com/posts/aminabuzahra_students-gift-activity-7285093388515774464-8y2-?utm_source=share&tm_medium=member_desktop)
 
 ### Important Note
-The core principle of this project is to avoid using any external assets. All models were built using Unity's native shapes, and both the controllers and coding were developed entirely in-house, without relying on any external tools.
+ to maximize my The core principle of this project is to avoid using any external assets. All models were built using Unity's native shapes, and both the controllers and coding were developed entirely in-house, without relying on any external tools.
 and also to use basic transformation rotation to animate everything, without any physics
 
 ## Main Role 
@@ -31,6 +31,8 @@ and also to use basic transformation rotation to animate everything, without any
 
 
 - Bunny
+Edit Unity Inspector by Code
+and control the Movement of the bunny
 ![](IMGS/Bunny.JPG)
 
 
@@ -82,3 +84,23 @@ and also to use basic transformation rotation to animate everything, without any
  ### link to Game https://nuhla.itch.io/monycollecter
 
  ### Main Role Solo Project - Full Unity Development 
+
+ - ## Some Unity Artwork
+
+    -   Car Toy 
+
+ [![](IMGS/Capture1.gif)](https://youtu.be/JMWvb9eYjOw)
+
+
+    
+    -  Interactive Pop-Up Box with Interactive Diorama
+
+ [![](IMGS/InteractiveDiorama.JPG)](https://youtu.be/mwO3kxo0QFw)
+
+
+    -  Kinetic Sculpture
+
+ [![](IMGS/Capture2.gif)](https://youtu.be/Fo8O1e7wBrI)
+
+    - Shadows 
+     [![](IMGS/KinaticSculture.JPG)]
