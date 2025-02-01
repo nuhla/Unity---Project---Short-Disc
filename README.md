@@ -12,41 +12,41 @@ and also to use basic transformation rotation to animate everything, without any
 ### C# developer , Game Designer , Artist 
 # Short Gameplay vedio
 
-[![](Assets/IMGS/1.jpg)](https://youtu.be/OoRil-WJMUE)
+[![](IMGS/1.jpg)](https://youtu.be/OoRil-WJMUE)
 
 # What did i do
 
 ## Modling 
 
 - Main Castle 
-![](Assets/IMGS/Castle.JPG)
+![](IMGS/Castle.JPG)
 
 
 - Biscuit Watchtower
-![](Assets/IMGS/3.JPG)
+![](IMGS/3.JPG)
 
 
 - Train station
-![](Assets/IMGS/2.JPG)
+![](IMGS/2.JPG)
 
 
 - Bunny
-![](Assets/IMGS/Bunny.JPG)
+![](IMGS/Bunny.JPG)
 
 
 ## Shaders
 - Chocolate Shader For Rivers and Cake ChocolateFall
-![](Assets/IMGS/Shader.JPG)
+![](IMGS/Shader.JPG)
 
 
 ## Coding
 - Bunny Movment Controller
-![](Assets/IMGS/BunnyController.JPG)
+![](IMGS/BunnyController.JPG)
 
 
 - TV Controller (Switch on and off Video - increase /decrease Sound)
-![](Assets/IMGS/TV.JPG)
+![](IMGS/TV.JPG)
 
 
 - Ship Modling & Movment Controller 
-![](Assets/IMGS/chip.JPG)
+![](IMGS/chip.JPG)
