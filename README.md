@@ -1,4 +1,4 @@
-# Mr. Amin Gift
+# 1. Mr. Amin Gift
 
 ### here is the link for his beutifull thougths about the project  
 
@@ -50,3 +50,13 @@ and also to use basic transformation rotation to animate everything, without any
 
 - Ship Modling & Movment Controller 
 ![](IMGS/chip.JPG)
+
+
+# AR
+### 2.  Some of my Participation in the ARFoundation Experience in creating Navigation Content (Indoor & outdoor navigation ), we used many Techs besides Augmented Reality  Offered by Unity ARFoundation SDK including :
+1. google Geospatial anchors.
+2. Mapbox Routing and Navigation.
+3. Image Detecting 
+4. AI
+
+[![](IMGS/Ar.JPG)](https://youtube.com/shorts/WmIDuExrIZI?feature=share)
