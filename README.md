@@ -103,4 +103,4 @@ and control the Movement of the bunny
         [![](IMGS/Capture2.gif)](https://youtu.be/Fo8O1e7wBrI)
 
     - ### Shadows 
-         [![](IMGS/KinaticSculture.JPG)]
+         [(IMGS/KinaticSculture.JPG)]
